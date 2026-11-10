@@ -1,0 +1,3 @@
+# The demo needs Ed25519 for the attestation signatures. The floor is the
+# first release with no known advisories for that package.
+cryptography>=50.0.0,<51
