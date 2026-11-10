@@ -1,5 +1,7 @@
 # OpenCode Swarm - public demo
 
+[![Demo verification](https://github.com/MarcusKaram-source/agentic-swarm-opencode-demo/actions/workflows/demo-ci.yml/badge.svg)](https://github.com/MarcusKaram-source/agentic-swarm-opencode-demo/actions/workflows/demo-ci.yml)
+
 A runnable demonstration of the **trust chain** behind an autonomous multi-agent
 engineering swarm: build -> test -> independent audit -> repair -> re-audit ->
 protected merge -> owner approval gate.
